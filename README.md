@@ -31,3 +31,43 @@ I enjoy learning new technologies, exploring backend/frontend systems, and contr
 
 Here are some dynamically generated stats (via GitHub Readme Stats):
 
+
+pgsql
+Copy code
+
+You can also show your language palette (top languages used):
+
+yaml
+Copy code
+
+---
+
+## 🚀 Featured Projects
+
+Here are a few projects I’m proud of. Feel free to replace or reformat:
+
+| Project | Description | Tech / Highlights |
+|---|---|---|
+| **Project-One** | A web app / service / tool | (React / Node / Python / etc) |
+| **Project-Two** | CLI / automation / library | (Python / Go / etc) |
+| **Project-Three** | API / integration / microservice | (Express / Flask / etc) |
+
+> 🔧 *If your repos don’t already have concise descriptions, polish them so visitors can understand them at a glance.*
+
+---
+
+## 📅 Roadmap & Goals
+
+- Contribute more to open source  
+- Learn & build in **[e.g. machine learning, blockchain, mobile dev, etc.]**  
+- Write blog posts, tutorials, or share knowledge  
+- Collaborate, learn from, and mentor in dev communities  
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [ir-bhuwan-panta](https://github.com/ir-bhuwan-panta)  
+
+Thanks for stopping by 👋  
+Let’s build something awesome together.
